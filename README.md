@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m a **Master of Science in Business Analytics** studen
 
 ### 🔹 **Toyota Car Sales Regression Analysis** 🚗  
 - **📌 Description:** Built a predictive model to analyze used car prices using regression techniques.  
-- **🔧 Technologies:** Python, Pandas, Scikit-learn, Jamovi   
+- **🔧 Technologies:** Minitab 
 
 ### 🔹 **Cricket Player Statistics in Python** 🏏  
 - **📌 Description:** Analyzed cricket player performance data using Python-based statistical techniques.  
@@ -39,6 +39,6 @@ Welcome to my GitHub! I’m a **Master of Science in Business Analytics** studen
 - **🔧 Technologies:** Minitab, Jamovi  
 
 ## 🔗 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 Email: your.email@example.com  
+💼 https://github.com/surendarreddynagammagari/surendarreddynagammagari_portfolio
+📧 Email: ngsreddy1990@gmail.com
 
